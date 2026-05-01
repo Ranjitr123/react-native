@@ -7,6 +7,7 @@ export default function HomeScreen() {
   <View>
     <Text>Home test</Text>
     <Text>Home test2</Text>
+    <Text>Home test3</Text>
   </View>
   );
 } 

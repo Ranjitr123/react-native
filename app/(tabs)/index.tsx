@@ -8,6 +8,8 @@ export default function HomeScreen() {
     <Text>Home test</Text>
     <Text>Home test2</Text>
     <Text>Home test3</Text>
+    <Text>Home test3</Text>
+    <Text>Home test4</Text>
   </View>
   );
 } 
